@@ -34,6 +34,12 @@ maintainers:
 
 common:
 
+  - type: Hosts
+    url: hosts/autotalks-hosts.yml
+  - type: Vendors
+    url: vendors/autotalks-vendors.yml
+  - type: DomainSecurity
+    url: security/autotalks-domain-security.yml
   - type: Website
     url: https://forgeglobal.com/autotalks_stock/
 
